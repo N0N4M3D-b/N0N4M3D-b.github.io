@@ -1,5 +1,5 @@
 ---
-title: \[CodeEngn\] Basic RCE L01
+title: "[CodeEngn] Basic RCE L01"
 author: N0N4M3D_b
 date: 2020-12-12 20:50:00 +0900
 categories: [WarGame, CodeEngn]
